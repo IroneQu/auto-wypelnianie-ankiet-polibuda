@@ -59,7 +59,7 @@ javascript:(function(){const urlParams=new URLSearchParams(window.location.searc
 6. Zapisz zmiany.
 
 ### 🚀 Jak używać skryptozakładki?
-1. Zaloguj się do EHMS i wejdź w docelową ankietę.
-2.1. Na komputerze: Kliknij w przycisk Wypełnij EHMS widoczny na pasku zakładek.
-2.2. Na telefonie: W pasku adresu przeglądarki (tam, gdzie wpisujesz linki) zacznij wpisywać tekst AnkietyEHMS. Z wyświetlonej listy podpowiedzi wybierz swoją zakładkę z ikonką gwiazdki.
-3. Skrypt natychmiast zaznaczy wszystkie pola i pokaże alert z podsumowaniem. Zamknij go i kliknij "Wyślij" na dole strony.
+1. Zaloguj się do EHMS i wejdź w docelową ankietę. 
+2. Na komputerze: Kliknij w przycisk Wypełnij EHMS widoczny na pasku zakładek.
+3. Na telefonie: W pasku adresu przeglądarki (tam, gdzie wpisujesz linki) zacznij wpisywać tekst AnkietyEHMS. Z wyświetlonej listy podpowiedzi wybierz swoją zakładkę z ikonką gwiazdki.
+4. Skrypt natychmiast zaznaczy wszystkie pola i pokaże alert z podsumowaniem. Zamknij go i kliknij "Wyślij" na dole strony.
