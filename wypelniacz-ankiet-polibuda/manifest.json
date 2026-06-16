@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Automatyczny Wypełniacz EHMS",
+	"version": "1.3",
+	"description": "Dodaje minimalistyczny przycisk na stronach ankiet EHMS.",
+	"content_scripts": [
+		{
+			"matches": ["https://ehms.pollub.pl/standard/*"],
+			"js": ["content.js"],
+			"run_at": "document_end"
+		}
+	]
+}
